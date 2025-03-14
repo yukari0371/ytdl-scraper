@@ -1,0 +1,12 @@
+{
+  "name": "ytdl-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.4",
+    "@types/node": "^22.13.1",
+    "@types/query-string": "^6.3.0",
+    "axios": "^1.7.9"
+  }
+}
